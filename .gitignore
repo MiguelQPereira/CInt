@@ -1,3 +1,5 @@
 # Ignore venv_CInt/ directory
 venv_CInt
 
+# Ignore zipped files
+*.zip
